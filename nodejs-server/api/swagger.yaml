@@ -15,7 +15,7 @@ host: "virtserver.swaggerhub.com"
 basePath: "/chastep/swag_test/1.0.0"
 tags:
 - name: "pet"
-  description: "Everything about your Personal Pets"
+  description: "Everything about your Pets"
   externalDocs:
     description: "Find out more"
     url: "http://swagger.io"
