@@ -11,7 +11,7 @@ jobs:
       - uses: readmeio/github-readme-sync@v2
         with:
           readme-oas-key: aWKkHJ9rEKWVc8FZGLZFVm2nfFK68gph:5fa43f4863e7dbdf5a9e1dea
+          oas-file-path: './openpai-test.json'
            
           # OPTIONAL CONFIG, use if necessary
-          # oas-file-path: './swagger.json'
           # api-version: 'v1.0.0'
